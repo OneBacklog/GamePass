@@ -1,0 +1,33 @@
+name: Download and Update CSV File
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  download_and_commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Download and Process CSV File
+        run: |
+          curl -L -o masterlist.csv "https://docs.google.com/spreadsheets/d/1kspw-4paT-eE5-mrCrc4R9tg70lH2ZTFrJOUmOtOytg/export?format=csv"
+          tail -n +2 masterlist.csv > masterlist.tmp && mv masterlist.tmp masterlist.csv
+
+      - name: Commit to the Repository
+        run: |
+          git add masterlist.csv
+          git commit -m "Update Data Source (Daily Sync)"
+          git push
