@@ -1,7 +1,7 @@
 Game,System,xCloud,Status,Added,Removed,Months,Release,Age,Metacritic,Completion,Genre,Series X|S,Owner Notes,ESRB,ESRB Content Descriptors,Community Notes,Status,Added,Delay
 Final Fantasy IV,Xbox / PC,Yes,Coming Soon,Apr 2026,,-0.23,Sep 2014,11.56,67,23,RPG,Exclusive,,,,,Active,Oct 2025,-6.20
 Barbie Horse Trails,Xbox,Yes,Coming Soon,Apr 2026,,-0.07,Oct 2008,17.47,,6,Action-Adventure,,Handheld Optimized,,,,Active,Oct 2025,-6.03
-Resident Evil 7: Biohazard,Xbox / PC,Yes,Coming Soon,Mar 2026,,0.00,Jan 2017,9.18,86,9,Action-Adventure,,,,,,Active,Oct 2025,-5.97
+Resident Evil 7: Biohazard,Xbox / PC,Yes,Active,Mar 2026,,0.00,Jan 2017,9.18,86,9,Action-Adventure,,,,,,Active,Oct 2025,-5.97
 The Long Dark,Xbox / PC,Yes,Active,Mar 2026,,0.00,Aug 2017,8.66,77,20,Action-Adventure,,,,,,Active,Oct 2025,-5.97
 Easy Delivery Co.,Xbox / PC,Yes,Active,Mar 2026,,0.13,Sep 2025,0.52,73,5,Action-Adventure,,,,,,Active,Oct 2025,-5.83
 Nova Roma (Game Preview),PC,,Active,Mar 2026,,0.13,Mar 2026,0.00,,,Strategy,,,,,,TBD,,0.13
@@ -740,8 +740,8 @@ Sunset Overdrive,Xbox / PC,,Active,Jun 2017,,105.97,Oct 2014,2.59,81,10,Shooter 
 Terraria,Xbox,M+KB,Active,Jun 2017,,105.97,May 2011,6.04,84,94,Platformer / Action-Adventure,,,T,"Use of Alcohol, Blood and Gore, Mild Suggestive Themes, Cartoon Violence",,Active,Sep 2024,87.37
 Viva Piñata,Xbox,Touch Controls,Active,Jun 2017,,105.97,Nov 2006,10.56,84,19,Strategy / Simulation,,,E,"Crude Humor, Mild Cartoon Violence",Xbox 360,Active,Sep 2024,87.37
 Viva Piñata: Trouble in Paradise,Xbox,Touch Controls,Active,Jun 2017,,105.97,Sep 2008,8.75,82,27,Strategy / Simulation,,,E,"Crude Humor, Mild Cartoon Violence",Xbox 360,Active,Sep 2024,87.37
-Peppa Pig: World Adventures,Xbox / PC,Yes,Leaving Soon,Sep 2025,Mar 2026,6.17,Mar 2023,2.52,72,2,Action-Adventure,Exclusive,,,,,Leaving Soon,Sep 2025,0.00
-Mad Streets,Xbox / PC,Yes,Leaving Soon,Oct 2024,Mar 2026,17.77,Aug 2021,3.11,55,2,Beat-'Em-Up ,,,,,,Leaving Soon,Oct 2024,0.00
+Peppa Pig: World Adventures,Xbox / PC,Yes,Removed,Sep 2025,Mar 2026,6.17,Mar 2023,2.52,72,2,Action-Adventure,Exclusive,,,,,Removed,Sep 2025,0.00
+Mad Streets,Xbox / PC,Yes,Removed,Oct 2024,Mar 2026,17.77,Aug 2021,3.11,55,2,Beat-'Em-Up ,,,,,,Removed,Oct 2024,0.00
 Bratz: Rhythm & Style,Xbox / PC,Yes,Removed,Dec 2025,Mar 2026,3.13,Sep 2025,0.25,75,6,Action-Adventure,,,,,,Removed,Oct 2025,-2.33
 He Is Coming (Game Preview),PC,,Removed,Jul 2025,Mar 2026,7.93,Jul 2025,0.00,,6,RPG,,,,,,Removed,Oct 2025,2.93
 Mythwrecked: Ambrosia Island,Xbox / PC,Yes,Removed,Mar 2025,Mar 2026,11.83,Dec 2024,0.29,62,9,Action-Adventure,,,,,,Removed,Mar 2025,0.00
