@@ -1,6 +1,6 @@
 Game,System,xCloud,Status,Added,Removed,Months,Release,Age,Metacritic,Completion,Genre,Series X|S,Owner Notes,ESRB,ESRB Content Descriptors,Community Notes,Status,Added,Delay,Added,Delay
 Beast of Reincarnation,Xbox / PC,Yes,Coming Soon,Aug 2026,,-0.13,Aug 2026,0.00,,,RPG,Exclusive,Handheld Optimized,,,,TBD,,-0.13,,
-Corsair Cove,PC,No,Coming Soon,Jul 2026,,0.00,Jul 2026,0.00,,,Simulation,,,,,,TBD,,0.00,,
+Corsair Cove,PC,No,Active,Jul 2026,,0.00,Jul 2026,0.00,,,Simulation,,,,,,TBD,,0.00,,
 Mistfall Hunter,Xbox / PC,Yes,Active,Jul 2026,,0.00,Jul 2026,0.00,,,RPG,Exclusive,,,,,TBD,,0.00,,
 Halo: Campaign Evolved,Xbox / PC,Yes,Active,Jul 2026,,0.07,Jul 2026,0.00,,,Shooter,,Handheld Optimized,,,,TBD,,0.07,,
 Conker: Live & Reloaded,Xbox / PC,Yes,Active,Jul 2026,,0.27,Nov 2005,20.68,82,,Action-Adventure,Enhanced,XBOX Backward Compatibility on PC (7/22/26),,,,Active,Jul 2026,0.00,Jul 2026,0.00
@@ -752,14 +752,14 @@ Sunset Overdrive,Xbox / PC,,Active,Jun 2017,,109.97,Oct 2014,2.59,81,10,Shooter 
 Terraria,Xbox,M+KB,Active,Jun 2017,,109.97,May 2011,6.04,84,94,Platformer / Action-Adventure,,,T,"Use of Alcohol, Blood and Gore, Mild Suggestive Themes, Cartoon Violence",,Active,Sep 2024,87.37,,
 Viva Piñata,Xbox,Touch Controls,Active,Jun 2017,,109.97,Nov 2006,10.56,84,19,Strategy / Simulation,,,E,"Crude Humor, Mild Cartoon Violence",Xbox 360,Active,Sep 2024,87.37,,
 Viva Piñata: Trouble in Paradise,Xbox,Touch Controls,Active,Jun 2017,,109.97,Sep 2008,8.75,82,27,Strategy / Simulation,,,E,"Crude Humor, Mild Cartoon Violence",Xbox 360,Active,Sep 2024,87.37,,
-Whiskerwood,PC,,Leaving Soon,Nov 2025,Jul 2026,8.80,Nov 2025,0.00,,14,Strategy,,,,,,TBD,,8.80,,
-Rain World,Xbox / PC,Yes,Leaving Soon,Aug 2025,Jul 2026,11.83,Mar 2017,8.35,59,21,Platformer,,,,,,Leaving Soon,Aug 2025,0.00,,
-Back to the Dawn,Xbox / PC,Yes,Leaving Soon,Jul 2025,Jul 2026,12.40,Jul 2025,0.00,81,12,Action-Adventure,,,,,,TBD,,12.40,,
-My Friendly Neighborhood,Xbox / PC,Yes,Leaving Soon,Jul 2025,Jul 2026,12.43,Jul 2023,2.00,81,5,Survival,,,,,,Leaving Soon,Oct 2025,2.47,,
-Sniper Elite: Resistance,Xbox / PC,Yes,Leaving Soon,Jan 2025,Jul 2026,18.00,Jan 2025,0.00,75,9,Shooter,,,,,,Leaving Soon,Nov 2025,9.17,,
-Celeste,Xbox / PC,Touch Controls,Leaving Soon,Aug 2023,Jul 2026,35.97,Jan 2018,5.52,91,8,Platformer,,"Game Pass Essential launch title (9/14/23), Returning title: Joined 11/5/20, left 10/31/21",E10+,"Alcohol Reference, Fantasy Violence, Mild Language",,Leaving Soon,Sep 2024,13.37,Sep 2023,1.43
-Mount & Blade II: Bannerlord,Xbox / PC,M+KB,Leaving Soon,Feb 2023,Jul 2026,41.53,Mar 2020,2.87,75,39,Action / Adventure / RPG / Simulation,,,M,"Blood, Violence",,Leaving Soon,Sep 2024,18.93,,
-Crusader Kings III,Xbox / PC,Yes,Leaving Soon,Sep 2020,Jul 2026,70.97,Sep 2020,0.00,91,13,Strategy,Exclusive,Joined Xbox 3/29/22,M,"Violence, Blood, Sexual Themes, Partial Nudity, Use of Drugs, Language",,Leaving Soon,Sep 2024,48.37,,
+Whiskerwood,PC,,Removed,Nov 2025,Jul 2026,8.80,Nov 2025,0.00,,14,Strategy,,,,,,TBD,,8.80,,
+Rain World,Xbox / PC,Yes,Removed,Aug 2025,Jul 2026,11.83,Mar 2017,8.35,59,21,Platformer,,,,,,Removed,Aug 2025,0.00,,
+Back to the Dawn,Xbox / PC,Yes,Removed,Jul 2025,Jul 2026,12.40,Jul 2025,0.00,81,12,Action-Adventure,,,,,,TBD,,12.40,,
+My Friendly Neighborhood,Xbox / PC,Yes,Removed,Jul 2025,Jul 2026,12.43,Jul 2023,2.00,81,5,Survival,,,,,,Removed,Oct 2025,2.47,,
+Sniper Elite: Resistance,Xbox / PC,Yes,Removed,Jan 2025,Jul 2026,18.00,Jan 2025,0.00,75,9,Shooter,,,,,,Removed,Nov 2025,9.17,,
+Celeste,Xbox / PC,Touch Controls,Removed,Aug 2023,Jul 2026,35.97,Jan 2018,5.52,91,8,Platformer,,"Game Pass Essential launch title (9/14/23), Returning title: Joined 11/5/20, left 10/31/21",E10+,"Alcohol Reference, Fantasy Violence, Mild Language",,Removed,Sep 2024,13.37,Sep 2023,1.43
+Mount & Blade II: Bannerlord,Xbox / PC,M+KB,Removed,Feb 2023,Jul 2026,41.53,Mar 2020,2.87,75,39,Action / Adventure / RPG / Simulation,,,M,"Blood, Violence",,Removed,Sep 2024,18.93,,
+Crusader Kings III,Xbox / PC,Yes,Removed,Sep 2020,Jul 2026,70.97,Sep 2020,0.00,91,13,Strategy,Exclusive,Joined Xbox 3/29/22,M,"Violence, Blood, Sexual Themes, Partial Nudity, Use of Drugs, Language",,Removed,Sep 2024,48.37,,
 Super Fantasy Kingdom (Game Preview),PC,,Removed,Oct 2025,Jul 2026,8.70,Oct 2025,0.00,,13,Defense,,,,,,TBD,,9.20,,
 Minami Lane,Xbox / PC,Yes,Removed,Jul 2025,Jul 2026,12.20,Feb 2024,1.36,78,3,Tycoon,,,,,,Removed,Oct 2025,2.73,,
 Dungeons Of Hinterberg,Xbox / PC,Yes,Removed,Jul 2024,Jul 2026,23.90,Jul 2024,0.00,82,13,Action-Adventure,Exclusive,Joins xbox one 12/4/24 (series exclusive before),,,,Removed,May 2025,9.63,,
